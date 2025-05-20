@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  path: ./apps/staging
+  path: ./apps/base/linkding
   prune: true
   retryInterval: 2m0s
   sourceRef:
